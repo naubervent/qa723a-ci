@@ -1,0 +1,14 @@
+{
+  "name": "qa723a-ci",
+  "version": "1.0.0",
+  "description": "Projeto CI para Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Nauber Ventura",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
